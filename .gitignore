@@ -1,0 +1,19 @@
+# Environment variables (contains sensitive data)
+.env
+
+# Node.js dependencies
+node_modules/
+
+# Results folder
+github-analysis-results/
+
+# Logs
+*.log
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Code editor directories
+.vscode/
+.idea/
