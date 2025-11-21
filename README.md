@@ -59,6 +59,10 @@ npm install
 ### 5. Run the Analyzer
 
 ```bash
+npm start
+
+#or
+
 node analyzer.js
 ```
 
